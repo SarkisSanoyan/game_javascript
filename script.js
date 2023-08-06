@@ -88,7 +88,7 @@ function hide($el) {
 }
 
 function show($el) {
-    $el.classList.remove('hide')
+    $el.classList.remove('hide');
 }
 
 function random(min, max) {
